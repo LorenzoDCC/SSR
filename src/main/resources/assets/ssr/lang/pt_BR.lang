@@ -1,0 +1,10 @@
+item.ssr.shard_unbound.name=Estilhaço de Alma Desvinculado
+item.ssr.shard.name=Estilhaço de Alma
+
+tile.ssr.soul_cage_0.name=Jaula de Almas Vazia
+tile.ssr.soul_cage_1.name=Jaula de Almas Inativa
+tile.ssr.soul_cage_2.name=Jaula de Almas Ativa
+
+enchantment.soul_stealer=Ladrão de Almas
+
+itemGroup.soul_shards_reborn=Soul Shards Reborn
